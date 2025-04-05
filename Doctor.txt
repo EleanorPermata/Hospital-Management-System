@@ -1,0 +1,25 @@
+Username: doc1
+Password: 1111
+Name: Azman Ismail
+Specialism: Cardiology
+
+Username: doc2
+Password: 2222
+Name: Liew Siew Ling
+Specialism: Endocrinology
+
+Username: doc3
+Password: 3333
+Name: Ramesh Kumar
+Specialism: Pediatrics
+
+Username: doc4
+Password: 4444
+Name: Noraini Ahmad
+Specialism: Dermatology
+
+Username: doc5
+Password: 5555
+Name: Tan Chee Keong
+Specialism: General
+

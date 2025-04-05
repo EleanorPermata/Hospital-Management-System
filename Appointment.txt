@@ -1,0 +1,5 @@
+doc1,Azman Ismail,Cardiology,07:00,08:00
+doc2,Liew Siew Ling,Endocrinology,10:00,11:00
+doc3,Ramesh Kumar,Pediatrics,13:00,14:00
+doc5,Tan Chee Keong,General,09:00,10:00
+doc5,Tan Chee Keong,General,06:00,07:00

@@ -1,0 +1,12 @@
+Albuterol,13.00,175
+Amlodipine,57.81,200
+Atorvastatin,80.72,200
+Candesartan,36.13,180
+Escitalopram,28.31,200
+Levothyroxine,10.00,200
+Losartan,12.00,200
+Omeprazole,7.00,200
+Perindopril,56.60,200
+Rosuvastatin,77.95,190
+Sertraline,30.11,200
+Telmisartan,36.14,200

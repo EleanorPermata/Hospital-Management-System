@@ -1,0 +1,6 @@
+pat1,Ahmad Faizal,doc2,Liew Siew Ling,Endocrinology,10:00,11:00
+pat2,Siti Aishah,doc3,Ramesh Kumar,Pediatrics,13:00,14:00
+pat3,Lim Wei Ming,doc1,Azman Ismail,Cardiology,07:00,08:00
+pat4,Ali Rahman,doc5,Tan Chee Keong,General,09:00,10:00
+pat6,Putri Dina,doc5,Tan Chee Keong,General,09:00,10:00
+pat0,Jim Smith,doc1,Azman Ismail,Cardiology,07:00,08:00

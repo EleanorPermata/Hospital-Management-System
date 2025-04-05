@@ -1,0 +1,6 @@
+pat1,1111,Ahmad Faizal,12-04-1985,Jalan Tun Razak,Manulife,Type 2 Diabetes Mellitus,Penicillin,Hypertension,Appendectomy (2010)
+pat2,2222,Siti Aishah,22-08-1990,Jalan Ampang,Prudential,Asthma,None,Chronic Bronchitis,Tonsillectomy (2005)
+pat3,3333,Lim Wei Ming,30-11-1978,Jalan Sultan Ismail,Allianz,Coronary Artery Disease,Aspirin,High Cholesterol, Hypertension,Angioplasty (2015)
+pat4,4444,Ali Rahman,05-09-1975,Jalan Tunku Abdul Rahman,Manulife,Hypertension,None,Hypertension, Mild Asthma,None
+pat6,6666,Putri Dina,18-09-1995,Jalan Bukit Jalil,Manulife,None,Peanut,None,None
+
