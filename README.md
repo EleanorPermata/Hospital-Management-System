@@ -1,5 +1,3 @@
-# 🏥 Hospital Management System (HMS) – C Programming Project
-
 This repository contains the source code and data files for a **C-based Hospital Management System (HMS)** developed as part of a group assignment for the **Introduction to C Programming** module.
 
 ## ❗Overview
@@ -41,7 +39,7 @@ The **Hospital Management System (HMS)** is a terminal-based application designe
 
 
 ## ❓ How to Compile and Run
-1. Download all source (`.c`, `.h`) and text (`.txt`) files.
+1. Download source (`Hospital Management System.c`,) and text (`.txt`) files.
 2. Use a C compiler to compile:
 
 
