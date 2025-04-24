@@ -40,6 +40,7 @@ The **Hospital Management System (HMS)** is a terminal-based application designe
 
 ## ❓ How to Compile and Run
 1. Download source (`Hospital_Management_System_Final.c`,) and text (`.txt`) files.
-2. Use a C compiler to compile:
+2. Use any C compiler to compile.
+3. Run the main `.c` file.
 
 
