@@ -4,7 +4,7 @@ This repository contains the source code and data files for a **C-based Hospital
 
 ## ❗Overview
 
-The **Hospital Management System (HMS)** is a terminal-based application designed to simulate core hospital operations. It serves various roles, **Administrator**, **Doctor**, **Patient**, and **Staff Nurse**, each with specific functionalities. This system emphasizes modular programming, file-based data storage, and secure access protocols, aligning with practices in C application development.
+The **Hospital Management System (HMS)** is a terminal-based application designed to simulate core hospital operations. It serves various roles, **Administrator**, **Doctor**, **Patient**, and **Staff Nurse**, each with specific functionalities.
 
 ## ❓ How to Compile and Run
 1. Download source (`Hospital_Management_System_Final.c`) and all the text (`.txt`) files in the repository.
